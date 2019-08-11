@@ -1,0 +1,14 @@
+node_modules
+/client/node_modules
+/client/build
+/client/coverage
+/client/.pnp
+.pnp.js
+DS_Store
+.env
+.env.local
+.env.test.local
+.env.production.local
+.env.development.local
+npm-debug.log*
+
